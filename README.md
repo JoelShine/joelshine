@@ -1,4 +1,8 @@
-# About Me
+# About Me, Joel Shine (JS)
+
+![](https://komarev.com/ghpvc/?username=SetuCoder&color=green)
+&nbsp; [![YouTube](https://img.shields.io/badge/YouTube-Channel-%23E62117)](https://www.youtube.com/channel/UCKaqF5TBF2j_R8PB7Sfu_mg) 
+&nbsp; ![GitHub](https://img.shields.io/github/followers/JoelShine?label=Follow%20Me%21&style=social)
 
 Hello Everyone ! My name is Joel Shine. I am a student of programming trying to learn bits and bytes by observing the world around me.
 
