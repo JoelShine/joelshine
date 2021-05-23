@@ -18,7 +18,7 @@ I currently know the following languages :
 - **_and more_**
 
 
-<b>⚡ Github Stats</b>
+<b>  ⚡ Github Stats</b>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoelShine&show_icons=true&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelShine&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
