@@ -10,7 +10,10 @@ I have been coding since I got my first computer. I love programming and love to
 
 I currently know the following languages :
 
+<code> <img src = "https://img.icons8.com/color/2x/python.png" > </code>
 <code> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" height="20" width="35"> </code>
+
+
 - **Java**
 - **Python**
 - **C++**
