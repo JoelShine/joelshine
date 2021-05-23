@@ -1,4 +1,4 @@
-## About Me, Joel Shine (JS)
+## About Me, [Joel Shine (JS)](https://github.com/JoelShine/)
 
 ![](https://komarev.com/ghpvc/?username=SetuCoder&color=green)
 &nbsp; [![YouTube](https://img.shields.io/badge/YouTube-Channel-%23E62117)](https://www.youtube.com/channel/UCKaqF5TBF2j_R8PB7Sfu_mg) 
@@ -28,7 +28,8 @@ I am interested in learning other languages. I am just a beginner in C and curre
 
 I am just a school student, who loves to make projects to help the people and the society for a better well-being.
 
-Some of my popular Github repositories are :
+Some of my popular Github repositories
+--------------------------------------
 
 1 ) [Jarvis v2.0](https://github.com/JoelShine/Jarvis-v2.0) - An AI Speech and Text Assistant to carry out and automate your computer tasks.
 
