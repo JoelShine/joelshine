@@ -49,5 +49,5 @@ Thanks for Supporting 😊
 
 -------------------------------------------------------------------------------------------------------------------------
 <p align= "center">
- **Show some ❤️ by supporting me and following me 😉 !**
+ <b>Show some ❤️ by supporting me and following me 😉 !</b>
   </p>
