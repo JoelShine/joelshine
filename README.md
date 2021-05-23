@@ -10,11 +10,13 @@ I have been coding since I got my first computer. I love programming and love to
 
 Languages and Frameworks I know
 -------------------------------
+<!-->
 <code> <img src = "https://img.icons8.com/color/2x/python.png" height = "25" width = "25"> </code>
 <code> <img src = "https://img.icons8.com/color/2x/java-coffee-cup-logo.png" height = "25" width = "25"> </code>
 <code> <img src = "https://img.icons8.com/color/2x/c-plus-plus-logo.png" height = "25" width = "25"> </code>
 <code> <img src = "https://img.icons8.com/color/2x/html-5.png" height = "25" width = "25"> </code>
 <code> <img src = "https://img.icons8.com/color/2x/golang.png" height = "25" width = "25"> </code>
+<-->
 
 - **Python**
 - **Java**
