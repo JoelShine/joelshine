@@ -21,6 +21,7 @@ Languages and Frameworks I know
 - **Python**
 - **Java**
 - **C++**
+- **C**
 - **HTML**
 - **Golang**
 - **_and more_**
