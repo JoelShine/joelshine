@@ -47,6 +47,3 @@ Some of my popular Github repositories
 Thanks for Supporting 😊
 
 -------------------------------------------------------------------------------------------------------------------------
-<p align= "center">
- <b>Show some ❤️ by supporting me and following me 😉 !</b>
-  </p>
