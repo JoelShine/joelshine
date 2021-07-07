@@ -1,4 +1,4 @@
-## About Me, [Joel Shine (JS)](https://github.com/JoelShine/)
+## About Me, [Joel Shine (JS)](https://joelshine.github.io/)
 
 ![](https://komarev.com/ghpvc/?username=SetuCoder&color=green)
 &nbsp; [![YouTube](https://img.shields.io/badge/YouTube-Channel-%23E62117)](https://www.youtube.com/channel/UCKaqF5TBF2j_R8PB7Sfu_mg) 
@@ -7,6 +7,8 @@
 Hello Everyone ! My name is Joel Shine. I am a student of programming trying to learn bits and bytes by observing the world around me.
 
 I have been coding since I got my first computer. I love programming and love to learn the different aspects of it.
+
+My Personal Website - https://joelshine.github.io/
 
 Languages and Frameworks I know
 -------------------------------
